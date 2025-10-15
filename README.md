@@ -1,53 +1,37 @@
-<p align="center">
-  <a href="#"><img width="80%" alt="Hello, I'm Ana Mohammed 👋" src="https://i.imgur.com/h7n6kQf.png" /></a>
-</p>
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/MohammedMaai)
 
-<br />
+### Hi there 👋, I'm **Mohammed Maai**
 
-
-
----
-
-### 💫 About Me
-
-- 🎓 Studying **Informatics & Engineering** (in English)  
-- 💻 Interested in **Front-End Development** and **Python programming**
-- 🌱 Currently improving my **Python (40%)** and **Web Dev Skills (HTML & CSS 80%)**
-- 💬 Ask me about anything tech-related — I love to share knowledge
-- 🎯 Goal: Become a full-stack developer capable of building smart web solutions
+💻 I'm a **Computer Programming student** currently in my **second year**  
+🎓 Studying in **Russia 🇷🇺** (program in English)  
+🌱 Passionate about **Web Development** and **Python Programming**  
+🚀 Always learning and improving my skills to become a **Full Stack Developer**
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Languages
 
-<code><img height="25" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="25" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="25" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="25" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-
----
-
-### 📊 GitHub Stats
-
-| <a href="https://github.com/yourusername"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="Ana's GitHub stats" /></a> | <a href="https://github.com/yourusername"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ---
 
-### 🌐 Connect With Me
+### ⚙️ Technologies & Tools
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://twitter.com/yourtwitter">
-  <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="mailto:your@email.com">
-  <img align="left" alt="Email" width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![VSCode](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-<br />
-<br />
+---
 
-⭐️ From [Ana Mohammed](https://github.com/yourusername)
+### 💼 Projects
+
+[![](https://img.shields.io/badge/-🌐%20Personal%20Portfolio-000)](https://github.com/MohammedMaai/portfolio)
+[![](https://img.shields.io/badge/-🧮%20Python%20Mini%20Projects-000)](https://github.com/MohammedMaai/python-projects)
+[![](https://img.shields.io/badge/-🎨%20CSS%20Designs-000)](https://github.com/M)
