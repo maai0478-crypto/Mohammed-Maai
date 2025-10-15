@@ -4,8 +4,7 @@
 
 <br />
 
-I'm a passionate **Computer Engineering student** from **Russia 🇷🇺**,  
-focused on building creative and functional web experiences.
+
 
 ---
 
